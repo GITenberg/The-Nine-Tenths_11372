@@ -1,0 +1,27 @@
+_repo: The-Nine-Tenths_11372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oppenheim, James
+    birthdate: 1882
+    deathdate: 1932
+    gutenberg_agent_id: '3958'
+    url: http://www.gutenberg.org/2009/agents/3958
+    wikipedia: http://en.wikipedia.org/wiki/James_Oppenheim
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Social problems -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Nine-Tenths
+url: http://www.gutenberg.org/ebooks/11372
